@@ -1,0 +1,45 @@
+https://app.slack.com/client/T02C4NNC4GP/D04AXLVNCQ1
+
+
+droplet
+
+ssh root@137.184.88.233
+Kh1
+
+
+
+https://secure.skype.com/en/skype-number/select/US/number/17074000204/create-service
+
+https://www.paypal.com/cgi-bin/webscr/?cmd=_express-checkout&useraction=commit&token=EC-11M46238YA460725G
+
+
+=====	Digital Ocean	=====
+fredericbeeg@icloud.com
+Apfel123.#
+
+=====	NPM JS	=====
+crosswisefi
+^GdP_unG2dq2Hi$
+=====================
+
+======= Web Flow ======
+design@crosswise.finance
+
+PW nyh7uzd3BND3gzg.xja
+=======================
+
+
+
+
+src\views\Farms\components\FarmTable\Row\index.tsx
+
+
+
+
+for referral we need to add 3 more pieces of user info https://trello.com/c/O2qliQwX/193-optimize-crosswise-moonwalkers-affiliate-feature. 
+1. total earned CRSS,
+getTotalCommision
+2. Total CRSS to be earned but currently in vesting
+3. Last referred users(10 per page)
+
+and n3 would best be done offchain if possible, when you have time please try to see if you can record this in server db as an address array for each referrer when website referral code executes so it can be used to display last referred, it would save a lot of gas (edited) 
